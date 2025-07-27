@@ -16,7 +16,7 @@ This project analyzes the Uber Fares dataset from Kaggle to explore fare pattern
 
  How to run
 1. Clone this repository
-2. Run `eda.py` to generate cleaned datasets
+2. Run `main.py` to generate cleaned datasets
 3. Open `uber_fares_dashboard.pbix` in Power BI Desktop to explore the dashboard
 
  Key Insights
