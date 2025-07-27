@@ -4,7 +4,7 @@ This project analyzes the Uber Fares dataset from Kaggle to explore fare pattern
 
  Project Structure
 - `data/`: Raw and cleaned datasets (`uber.csv`, `uber_fares_cleaned.csv`, `uber_fares_features.csv`)
-- `eda.py`: Python script for exploratory data analysis & cleaning
+- `main.py`: Python script for exploratory data analysis & cleaning
 - `screenshots/`: Documentation of each project stage (data loading, cleaning, dashboard)
 - `uber_fares_dashboard.pbix`: Power BI dashboard
 - `report.md`: Analytical report with findings and recommendations
